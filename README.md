@@ -5,3 +5,4 @@ physics
 second
 Troy, MI
 took a coding class in high school using java, took CMSE 201 last spring, taking CMSE 202 and CSE 231 now
+Arie Carpenter, carpe335@msu.edu
